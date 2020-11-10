@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<button>wadawd</button>
+[<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][https://twitter.com/rusty1s]
+
 
 <!--
 **rusty1s/rusty1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
