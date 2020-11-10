@@ -8,7 +8,7 @@
 
 <br />
 
-## maintainer of
+### Maintainer of
 
 [<img width="40%" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg?sanitize=true" />](https://github.com/rusty1s/pytorch_geometric)
 
@@ -17,13 +17,11 @@
 [![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rusty1s/pytorch_geometric/blob/master/CONTRIBUTING.md)
 [![Slack](https://img.shields.io/badge/slack-pyg-brightgreen)][slack-url]
 
----
-
 **PhD student** 🤓 in **Graph Machine Learning** at the TU Dortmund University:
 - 👨🏼‍💻 loves coding and learning new things
-- 🤩 interested in pytorch, cuda, vim, apple, nodejs, linux, python, js
+- 🤩 interested in <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg">
 
----
+pytorch, cuda, vim, apple, nodejs, linux, python, js
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty1s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
 
