@@ -10,7 +10,7 @@
 
 ---
 
-[<img height="200" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg?sanitize=true" />](https://github.com/rusty1s/pytorch_geometric)
+[<img height="100" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg?sanitize=true" />](https://github.com/rusty1s/pytorch_geometric)
 
 [![PyPI Version](https://badge.fury.io/py/torch-geometric.svg)](https://pypi.org/project/torch-geometric)
 [![Docs Status](https://readthedocs.org/projects/pytorch-geometric/badge/?version=latest)](https://pytorch-geometric.readthedocs.io)
