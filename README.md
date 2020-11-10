@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][https://twitter.com/rusty1s]
+[website]: https://justinchen.io
+[linkedin]: https://www.linkedin.com/in/chenjus
+[reddit]: https://www.reddit.com/user/ch3njust1n
+[medium]: https://medium.com/@ch3njust1n
+[stack]: https://stackoverflow.com/users/3158028/soubriquet?tab=profile
+[twitter]: https://stackoverflow.com/users/3158028/soubriquet?tab=profile
+
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />][twitter]
 
 
 <!--
