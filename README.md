@@ -7,8 +7,10 @@
 [stack]: https://stackoverflow.com/users/3158028/soubriquet?tab=profile
 [twitter]: https://stackoverflow.com/users/3158028/soubriquet?tab=profile
 
-[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />][twitter]
-
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />](https://twitter.com/rusty1s)
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.de/citations?user=5HaSBN0AAAAJ)
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />](https://medium.com/@rusty1s)
+[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/slack.svg" />](https://join.slack.com/t/torchgeometricco/shared_invite/zt-imae9z78-U8p78pxOiYQDVGYAsQuSHg)
 
 <!--
 **rusty1s/rusty1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
