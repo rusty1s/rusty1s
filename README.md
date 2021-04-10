@@ -1,4 +1,4 @@
-[slack-url]: https://join.slack.com/t/torchgeometricco/shared_invite/zt-imae9z78-U8p78pxOiYQDVGYAsQuSHg
+[slack-url]: https://join.slack.com/t/torchgeometricco/shared_invite/zt-ls02l7hg-R1Od4~vZTn3kWeXKU1iIVA
 
 [<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rusty1s.github.io/)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />](https://twitter.com/rusty1s)
