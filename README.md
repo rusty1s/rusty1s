@@ -20,8 +20,9 @@
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/slack.svg" />][slack-url]
 
 <br />
+<br />
 
-<p style=padding-top: 10px">
+<p>
   <a href="https://github.com/rusty1s/pytorch_geometric">
     <img height="130" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg1.svg?sanitize=true" />
   </a>
