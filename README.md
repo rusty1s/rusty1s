@@ -21,7 +21,7 @@
 
 <br />
 
-<p align="center">
+<p>
   <a href="https://github.com/rusty1s/pytorch_geometric">
     <img height="130" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg1.svg?sanitize=true" />
   </a>
