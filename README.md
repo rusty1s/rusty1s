@@ -1,15 +1,15 @@
 [pypi-image]: https://badge.fury.io/py/torch-geometric.svg
 [pypi-url]: https://pypi.python.org/pypi/torch-geometric
-[testing-image]: https://github.com/rusty1s/pytorch_geometric/actions/workflows/testing.yml/badge.svg
-[testing-url]: https://github.com/rusty1s/pytorch_geometric/actions/workflows/testing.yml
-[linting-image]: https://github.com/rusty1s/pytorch_geometric/actions/workflows/linting.yml/badge.svg
-[linting-url]: https://github.com/rusty1s/pytorch_geometric/actions/workflows/linting.yml
+[testing-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml/badge.svg
+[testing-url]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml
+[linting-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/linting.yml/badge.svg
+[linting-url]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/linting.yml
 [docs-image]: https://readthedocs.org/projects/pytorch-geometric/badge/?version=latest
 [docs-url]: https://pytorch-geometric.readthedocs.io/en/latest/?badge=latest
-[coverage-image]: https://codecov.io/gh/rusty1s/pytorch_geometric/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/github/rusty1s/pytorch_geometric?branch=master
+[coverage-image]: https://codecov.io/gh/pyg-team/pytorch_geometric/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/github/pyg-team/pytorch_geometric?branch=master
 [contributing-image]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-[contributing-url]: https://github.com/rusty1s/pytorch_geometric/blob/master/CONTRIBUTING.md
+[contributing-url]: https://github.com/pyg-team/pytorch_geometric/blob/master/CONTRIBUTING.md
 [slack-image]: https://img.shields.io/badge/slack-pyg-brightgreen
 [slack-url]: https://join.slack.com/t/torchgeometricco/shared_invite/zt-p6br3yuo-BxRoe36OHHLF6jYU8xHtBA
 
@@ -23,8 +23,8 @@
 <br />
 
 <p>
-  <a href="https://github.com/rusty1s/pytorch_geometric">
-    <img height="130" src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg1.svg?sanitize=true" />
+  <a href="https://github.com/pyg-team/pytorch_geometric">
+    <img height="130" src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg1.svg?sanitize=true" />
   </a>
 </p>
 
