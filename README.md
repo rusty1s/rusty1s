@@ -24,7 +24,7 @@
 
 <p>
   <a href="https://github.com/pyg-team/pytorch_geometric">
-    <img height="130" src="https://raw.githubusercontent.com/pyg-team/pytorch_geometric/master/docs/source/_static/img/pyg1.svg?sanitize=true" />
+    <img height="130" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" />
   </a>
 </p>
 
