@@ -11,7 +11,7 @@
 [contributing-image]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
 [contributing-url]: https://github.com/pyg-team/pytorch_geometric/blob/master/CONTRIBUTING.md
 [slack-image]: https://img.shields.io/badge/slack-pyg-brightgreen
-[slack-url]: https://join.slack.com/t/torchgeometricco/shared_invite/zt-p6br3yuo-BxRoe36OHHLF6jYU8xHtBA
+[slack-url]: https://join.slack.com/t/torchgeometricco/shared_invite/zt-1etljpzdj-67N~BrDuGUUdA_xcZebc5A
 
 [<img align="left" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rusty1s.github.io/)
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />](https://twitter.com/rusty1s)
