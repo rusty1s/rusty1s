@@ -35,7 +35,7 @@
 [![Contributing][contributing-image]][contributing-url]
 [![Slack][slack-image]][slack-url]
 
-**Founding Engineer** 🤓 @ **[kumo.ai](https://kumo.ai)** - Previously **PhD student** @ **TU Dortmund University**
+**Founding Engineer** 🤓 @ **[kumo.ai](https://kumo.ai)** - **PhD** from **TU Dortmund University**
 
 - 👨🏼‍💻 I love coding and learning new things
 - 🤩 I'm interested in <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
